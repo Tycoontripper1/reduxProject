@@ -1,1 +1,1 @@
-# reduxProject
+# CGPA Calculator
